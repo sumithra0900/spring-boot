@@ -58,3 +58,4 @@ in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Sta
 ## Youtube Playlists - 500+ Videos
 
 [Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
+# project-2
